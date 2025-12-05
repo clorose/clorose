@@ -17,16 +17,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # GitHub 토큰
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # 기본 설정
           user: clorose
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
-          
-          # ========== 플러그인 설정 ==========
           
           # 🈷️ Languages - 언어 비율
           plugin_languages: yes
@@ -37,28 +33,11 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           
-          # 💡 Habits - 코딩 습관
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-          
-          # 📅 Isometric Calendar - 3D 잔디밭
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-          # 🏆 Achievements - 업적
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # 📰 Activity - 최근 활동
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          # 🌇 Skyline - 3D 도시
+          plugin_skyline: yes
+          plugin_skyline_year: 0
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
           
           # 👨‍💻 Lines - 코드 라인 수
           plugin_lines: yes
