@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           user: clorose
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
           
@@ -33,11 +33,18 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           
+          # 💡 Habits - 코딩 습관
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          
           # 🌇 Skyline - 3D 도시
           plugin_skyline: yes
-          plugin_skyline_year: 0
           plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+          plugin_skyline_quality: 0.5
           
           # 👨‍💻 Lines - 코드 라인 수
           plugin_lines: yes
