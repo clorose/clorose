@@ -17,41 +17,35 @@
 
 > 잡다한거 아무거나 하는 개발자 정영훈입니다.
 
-- 🔭 개인 작업물, 아이디어 구현 등등 아무거나 하는 것을 좋아합니다
-- 🌱 최근에는 **머신러닝**과 **프론트엔드** 분야에 관심이 많습니다
-- 🎮 Lua는 간단한 모딩, Kotlin은 간단한 모드 레벨 정도로 사용합니다
-- ❤️ **좋아하는 것**: TRPG, 번역, 게임 모딩, 프론트엔드
+- 🔭 개인 작업물, 아이디어 구현 등등 아무거나 하는 것을 좋아합니다  
+- 🌱 최근에는 **머신러닝**, **프론트엔드** 분야에 관심이 많습니다  
+- 🎮 Lua는 간단한 모딩, Kotlin은 간단한 모드 레벨 정도로 사용합니다  
+- ❤️ **좋아하는 것**: TRPG, 번역, 게임 모딩, 프론트엔드  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend  
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
-### Backend / DevOps
+### Backend / DevOps  
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,kotlin,docker,linux)](https://skillicons.dev)
 
-### ML / Python
+### ML / Python  
 [![ML Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi)](https://skillicons.dev)
 
-### Tools
+### Tools  
 [![Tools](https://skillicons.dev/icons?i=vscode,notion,postman,git,github)](https://skillicons.dev)
 
-### Also Using
+### Also Using  
 [![ETC](https://skillicons.dev/icons?i=lua,windows,apple,ubuntu)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-
-<!-- Metrics - GitHub Action으로 자동 생성됨 -->
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
-
-<br/>
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=clorose&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -65,8 +59,17 @@
 
 ---
 
+## 🧊 3D Contribution Graph
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer" width="100%" />
+<!-- GitHub 3D Contribution (Git Block) -->
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Git Block Contribution Graph"/>
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer" width="100%" />
 </div>
