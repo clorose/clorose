@@ -1,60 +1,71 @@
 <div align="center">
 
-## Hello, I'm YeongHun
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&text=YeongHun&fontSize=60&fontColor=fff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55)
 
-<a href="https://wandering-bear.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
-<a href="mailto:gohan9511@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gohan9511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Building+random+stuff+I+like;Frontend+%2B+Machine+Learning;TRPG+%7C+Translation+%7C+Game+Modding)](https://git.io/typing-svg)
 
-잡다한거 아무거나 하는 개발자 정영훈입니다.
-개인 작업물, 아이디어 구현 등등 아무거나 하는 것을 좋아합니다.
-최근에는 머신러닝 분야와 프론트엔드 분야에 관심이 많습니다.
-Lua는 간단한 모딩, Kotlin은 간단한 모드 레벨 정도로 사용합니다.
+<br/>
 
-**좋아하는 것**: TRPG, 번역, 게임 모딩, 프론트엔드
+[![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)](https://wandering-bear.tistory.com/)
+[![Gmail](https://img.shields.io/badge/gohan9511@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gohan9511@gmail.com)
 
-## Tech Stack
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+> 잡다한거 아무거나 하는 개발자 정영훈입니다.
+
+- 🔭 개인 작업물, 아이디어 구현 등등 아무거나 하는 것을 좋아합니다
+- 🌱 최근에는 **머신러닝**과 **프론트엔드** 분야에 관심이 많습니다
+- 🎮 Lua는 간단한 모딩, Kotlin은 간단한 모드 레벨 정도로 사용합니다
+- ❤️ **좋아하는 것**: TRPG, 번역, 게임 모딩, 프론트엔드
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+### Backend / DevOps
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,kotlin,docker,linux)](https://skillicons.dev)
 
-### Backend/DevOps
+### ML / Python
+[![ML Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,notion,postman,git,github)](https://skillicons.dev)
 
-### ML/Python
+### Also Using
+[![ETC](https://skillicons.dev/icons?i=lua,windows,apple,ubuntu)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+---
 
-### ETC
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<div align="center">
 
-## Tools
+<!-- Metrics - GitHub Action으로 자동 생성됨 -->
+<img src="./github-metrics.svg" alt="Metrics" width="100%">
 
-### OS
-<img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/macOS%20Sequoia-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<br/>
 
-### IDE & Tools
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=clorose&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## Top Lang
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clorose&langs_count=8)](https://github.com/clorose/github-readme-stats)
+<br/>
 
-## My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clorose)](https://github.com/clorose/github-readme-stats)
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=clorose&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer)
 
 </div>
