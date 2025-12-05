@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&text=YeongHun&fontSize=60&fontColor=fff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&text=YeongHun&fontSize=60&fontColor=fff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Building+random+stuff+I+like;Frontend+%2B+Machine+Learning;TRPG+%7C+Translation+%7C+Game+Modding)](https://git.io/typing-svg)
 
@@ -66,6 +66,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer" width="100%" />
 
 </div>
