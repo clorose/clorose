@@ -65,6 +65,15 @@
 
 ---
 
+## 📘 Dev Groundrules
+
+> 개발할 때 쓰는 Git / Commit / 워크플로우 규칙을 모아둔 개인 플레이북입니다.  
+> 필요하면 한 번씩 보는 용도 🧾
+
+[![Dev Groundrules](https://img.shields.io/badge/dev--groundrules-Git%20%26%20Dev%20Rules-4B7BEC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clorose/dev-groundrules)
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=100&section=footer" width="100%" />
 </div>
