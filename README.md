@@ -50,11 +50,6 @@
 <!-- Hyochan Developer Power Meter -->
 <img src="https://stats.hyo.dev/api/github-stats-advanced?login=clorose" width="85%" />
 
-<br/>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=clorose&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
